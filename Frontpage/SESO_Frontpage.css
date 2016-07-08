@@ -1,0 +1,29 @@
+#GlobalNav {
+    margain: 0;
+    padding: 0;
+    text-align: center;
+    background-color: black;
+    opacity: .95;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+#GlobalNav li {
+    display: inline-block;
+}
+#GlobalNav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#GlobalNav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: 17191A;
+}
+#GlobalNav li a:hover {
+       color: white;
+}
